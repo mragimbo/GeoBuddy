@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geokamu</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="dialog_lat">leveysaste</string>
+    <string name="dialog_lng">pituusaste</string>
+    <string name="dialog_message">Paina Ok jatkaaksesi Karttanäkymään</string>
+    <string name="dialog_name">Nimi:</string>
+    <string name="dialog_title">Lisää uusi paikka</string>
+    <string name="toast_inMaps">Google Mapsissa</string>
+    <string name="toast_opening">avataan</string>
+    <string name="db_no_items">Ei paikkoja muistissa! Lisää uusia paikkoja</string>
+    <string name="db_locations_found">Kaikki paikat haettu muistista onnistuneesti!</string>
+    <string name="db_new_added">Paikka tallennettu muistiin!</string>
+    <string name="db_deleted">Paikka poistettu muistista onnistuneesti</string>
+    <string name="dialog_cancel">Peruuta</string>
+</resources>
